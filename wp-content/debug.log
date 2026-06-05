@@ -1,0 +1,10 @@
+[05-Jun-2026 14:56:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\DELL\Documents\web_wordpress\wp-content\db.php:1) in C:\Users\DELL\Documents\web_wordpress\wp-includes\pluggable.php on line 1535
+[05-Jun-2026 14:56:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\DELL\Documents\web_wordpress\wp-content\db.php:1) in C:\Users\DELL\Documents\web_wordpress\wp-includes\pluggable.php on line 1538
+[05-Jun-2026 14:57:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Command line code:1) in C:\Users\DELL\Documents\web_wordpress\wp-includes\pluggable.php on line 1535
+[05-Jun-2026 14:57:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at Command line code:1) in C:\Users\DELL\Documents\web_wordpress\wp-includes\pluggable.php on line 1538
+[05-Jun-2026 14:58:08 UTC] PHP Warning:  Undefined property: stdClass::$publish in C:\Users\DELL\AppData\Local\Temp\install-wp-demo.php on line 24
+[05-Jun-2026 14:59:42 UTC] Automatic updates starting...
+[05-Jun-2026 14:59:44 UTC] Automatic updates complete.
+[05-Jun-2026 15:05:44 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in C:\Users\DELL\Documents\web_wordpress\wp-includes\functions.php on line 6170
+[05-Jun-2026 15:05:44 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in C:\Users\DELL\Documents\web_wordpress\wp-includes\functions.php on line 6170
+[05-Jun-2026 15:05:44 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in C:\Users\DELL\Documents\web_wordpress\wp-includes\functions.php on line 6170

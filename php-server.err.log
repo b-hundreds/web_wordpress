@@ -1,0 +1,124 @@
+[Fri Jun  5 21:59:37 2026] PHP 8.5.7 Development Server (http://127.0.0.1:8080) started
+[Fri Jun  5 21:59:39 2026] 127.0.0.1:61900 Accepted
+[Fri Jun  5 21:59:41 2026] 127.0.0.1:61900 Closing
+[Fri Jun  5 21:59:41 2026] 127.0.0.1:61901 Accepted
+[Fri Jun  5 21:59:44 2026] 127.0.0.1:61901 [200]: POST /wp-cron.php?doing_wp_cron=1780671580.6722970008850097656250
+[Fri Jun  5 21:59:44 2026] 127.0.0.1:61901 Closing
+[Fri Jun  5 22:00:16 2026] 127.0.0.1:61936 Accepted
+[Fri Jun  5 22:00:16 2026] 127.0.0.1:61936 Closing
+[Fri Jun  5 22:00:16 2026] 127.0.0.1:61937 Accepted
+[Fri Jun  5 22:00:16 2026] 127.0.0.1:61938 Accepted
+[Fri Jun  5 22:00:16 2026] 127.0.0.1:61937 Closing
+[Fri Jun  5 22:00:16 2026] 127.0.0.1:61938 Closing
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61943 Accepted
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61944 Accepted
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61944 Closing
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61943 [200]: GET /wp-content/themes/sketch-english-academy/style.css?ver=1.0.0
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61945 Accepted
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61946 Accepted
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61945 [200]: GET /wp-content/themes/sketch-english-academy/assets/images/hero-pencil-english.png
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61946 [200]: GET /wp-content/themes/sketch-english-academy/assets/js/site.js?ver=1.0.0
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61943 Closing
+[Fri Jun  5 22:00:26 2026] 127.0.0.1:61946 Closing
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61945 Closing
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61949 Accepted
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61950 Accepted
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61949 [200]: GET /wp-includes/js/twemoji.js?ver=7.0
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61950 [200]: GET /wp-includes/js/wp-emoji.js?ver=7.0
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61949 Closing
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61950 Closing
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61951 Accepted
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61951 Closing
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61952 Accepted
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61952 [200]: GET /wp-includes/images/w-logo-blue-white-bg.png
+[Fri Jun  5 22:00:27 2026] 127.0.0.1:61952 Closing
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61955 Accepted
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61955 Closing
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61956 Accepted
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61957 Accepted
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61956 [200]: GET /wp-content/themes/sketch-english-academy/style.css?ver=1.0.0
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61956 Closing
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61957 [200]: GET /wp-content/themes/sketch-english-academy/assets/js/site.js?ver=1.0.0
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61957 Closing
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61958 Accepted
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61959 Accepted
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61958 [200]: GET /wp-includes/js/twemoji.js?ver=7.0
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61959 [200]: GET /wp-includes/js/wp-emoji.js?ver=7.0
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61958 Closing
+[Fri Jun  5 22:00:53 2026] 127.0.0.1:61959 Closing
+[Fri Jun  5 22:00:55 2026] 127.0.0.1:61960 Accepted
+[Fri Jun  5 22:00:55 2026] 127.0.0.1:61960 Closing
+[Fri Jun  5 22:00:55 2026] 127.0.0.1:61961 Accepted
+[Fri Jun  5 22:00:55 2026] 127.0.0.1:61962 Accepted
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61961 [200]: GET /wp-content/themes/sketch-english-academy/style.css?ver=1.0.0
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61962 [200]: GET /wp-content/themes/sketch-english-academy/assets/js/site.js?ver=1.0.0
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61961 Closing
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61962 Closing
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61963 Accepted
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61963 [200]: GET /wp-includes/js/twemoji.js?ver=7.0
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61964 Accepted
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61964 [200]: GET /wp-includes/js/wp-emoji.js?ver=7.0
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61963 Closing
+[Fri Jun  5 22:00:56 2026] 127.0.0.1:61964 Closing
+[Fri Jun  5 22:01:10 2026] 127.0.0.1:61968 Accepted
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61968 Closing
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61969 Accepted
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61970 Accepted
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61969 [200]: GET /wp-content/themes/sketch-english-academy/style.css?ver=1.0.0
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61969 Closing
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61970 [200]: GET /wp-content/themes/sketch-english-academy/assets/images/hero-pencil-english.png
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61971 Accepted
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61971 [200]: GET /wp-content/themes/sketch-english-academy/assets/js/site.js?ver=1.0.0
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61971 Closing
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61970 Closing
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61972 Accepted
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61973 Accepted
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61972 [200]: GET /wp-includes/js/twemoji.js?ver=7.0
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61973 [200]: GET /wp-includes/js/wp-emoji.js?ver=7.0
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61972 Closing
+[Fri Jun  5 22:01:11 2026] 127.0.0.1:61973 Closing
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61975 Accepted
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61975 Closing
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61976 Accepted
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61977 Accepted
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61976 [200]: GET /wp-content/themes/sketch-english-academy/style.css?ver=1.0.0
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61977 [200]: GET /wp-content/themes/sketch-english-academy/assets/images/hero-pencil-english.png
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61976 Closing
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61978 Accepted
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61978 [200]: GET /wp-content/themes/sketch-english-academy/assets/js/site.js?ver=1.0.0
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61978 Closing
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61977 Closing
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61979 Accepted
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61979 [200]: GET /wp-includes/js/twemoji.js?ver=7.0
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61979 Closing
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61981 Accepted
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61981 [200]: GET /wp-includes/js/wp-emoji.js?ver=7.0
+[Fri Jun  5 22:01:44 2026] 127.0.0.1:61981 Closing
+[Fri Jun  5 22:05:57 2026] 127.0.0.1:62070 Accepted
+[Fri Jun  5 22:05:57 2026] 127.0.0.1:62070 Closing
+[Fri Jun  5 22:06:14 2026] 127.0.0.1:62074 Accepted
+[Fri Jun  5 22:06:14 2026] 127.0.0.1:62074 Closing
+[Fri Jun  5 22:07:14 2026] 127.0.0.1:62086 Accepted
+[Fri Jun  5 22:07:14 2026] 127.0.0.1:62086 Closing
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62092 Accepted
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62092 Closing
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62093 Accepted
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62093 [200]: GET /wp-content/themes/sketch-english-academy/style.css?ver=1.0.0
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62093 Closing
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62094 Accepted
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62094 [200]: GET /wp-content/themes/sketch-english-academy/assets/images/hero-pencil-english.png
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62095 Accepted
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62095 [200]: GET /wp-content/themes/sketch-english-academy/assets/js/site.js?ver=1.0.0
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62095 Closing
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62094 Closing
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62096 Accepted
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62097 Accepted
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62096 [200]: GET /wp-includes/js/twemoji.js?ver=7.0
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62097 [200]: GET /wp-includes/js/wp-emoji.js?ver=7.0
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62096 Closing
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62097 Closing
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62099 Accepted
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62099 Closing
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62100 Accepted
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62100 [200]: GET /wp-includes/images/w-logo-blue-white-bg.png
+[Fri Jun  5 22:08:10 2026] 127.0.0.1:62100 Closing
