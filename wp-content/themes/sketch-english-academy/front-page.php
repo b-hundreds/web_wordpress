@@ -8,6 +8,21 @@
 get_header();
 $hero_image = get_template_directory_uri() . '/assets/images/hero-pencil-english.png';
 ?>
+<?php if (is_user_logged_in()) : ?>
+<main>
+    <div class="container">
+        <?php
+        if (current_user_can('manage_options')) {
+            echo do_shortcode('[sea_admin_dashboard]');
+        } elseif (sea_is_teacher()) {
+            echo do_shortcode('[sea_teacher_dashboard]');
+        } else {
+            echo do_shortcode('[sea_student_dashboard]');
+        }
+        ?>
+    </div>
+</main>
+<?php get_footer(); return; endif; ?>
 <main>
     <section class="hero">
         <div class="container hero-grid">
@@ -91,11 +106,11 @@ $hero_image = get_template_directory_uri() . '/assets/images/hero-pencil-english
     </section>
 
     <section class="section alt" id="tu-van">
-        <div class="container content-wrap">
-            <div>
+        <div class="container consult-section">
+            <div class="consult-intro">
                 <span class="eyebrow"><?php esc_html_e('Đăng ký', 'sketch-english-academy'); ?></span>
                 <h2><?php esc_html_e('Nhận tư vấn lộ trình miễn phí', 'sketch-english-academy'); ?></h2>
-                <p class="lead"><?php esc_html_e('Để lại thông tin, đội ngũ tư vấn sẽ liên hệ, kiểm tra trình độ đầu vào và gợi ý lộ trình học phù hợp.', 'sketch-english-academy'); ?></p>
+                <p class="lead"><?php esc_html_e('Xem lớp học thử hiện có, chọn ngày phù hợp và để lại thông tin. Đội ngũ tư vấn sẽ xác nhận lịch, kiểm tra trình độ đầu vào và gợi ý lộ trình học.', 'sketch-english-academy'); ?></p>
             </div>
             <?php echo do_shortcode('[sea_lead_form]'); ?>
         </div>

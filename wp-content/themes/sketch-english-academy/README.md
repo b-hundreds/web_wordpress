@@ -8,6 +8,9 @@ Theme WordPress demo cho website khóa học tiếng Anh, thiết kế theo phon
 - Custom Post Type: `course`, `testimonial`, `faq`, `lead`.
 - Archive khóa học tại `/khoa-hoc/` và trang chi tiết khóa học.
 - Form đăng ký tư vấn bằng shortcode `[sea_lead_form]`, lưu lead trong admin và gửi email quản trị viên.
+- Role demo: `Giáo viên` và `Học viên`.
+- Dashboard giáo viên tại `/bang-dieu-khien-giao-vien/` để xem danh sách lớp và chấm điểm bài nộp.
+- Dashboard học viên tại `/lop-hoc-cua-toi/` để xem lịch học, bài học, điểm và nhận xét.
 - Dữ liệu demo tự động tạo khi kích hoạt theme lần đầu.
 - SEO cơ bản: `title-tag`, meta description, Open Graph, Twitter card.
 - Schema JSON-LD: `EducationalOrganization`, `Course`, `FAQPage`.
@@ -20,6 +23,12 @@ Theme WordPress demo cho website khóa học tiếng Anh, thiết kế theo phon
 3. Vào `Settings > Permalinks` và bấm `Save Changes` nếu archive `/khoa-hoc/` chưa hiện.
 4. Vào `Appearance > Customize > Nội dung trang chủ` để sửa tiêu đề hero, mô tả và hotline.
 5. Quản lý khóa học tại `Khóa học`, FAQ tại `FAQ`, cảm nhận tại `Cảm nhận`, lead tại `Lead tư vấn`.
+
+## Tài khoản demo
+
+- Admin: `admin` / `admin12345`
+- Giáo viên: `giaovien` / `teacher12345`
+- Học viên: `hocvien` / `student12345`
 
 ## Gợi ý demo với khách
 
